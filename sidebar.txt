@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[row:home|Door43 (row)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-row|d43-row repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-row/archive/master.zip|d43-row.zip]]
+
+**Recent Changes**
+{{changes>ns = row}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/row|Ethnologue data]]
+
